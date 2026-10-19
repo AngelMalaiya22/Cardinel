@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+creditcard.csv
+fraud_engine.joblib
+.venv/
